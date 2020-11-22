@@ -46,10 +46,10 @@ BOOL CInstanceBase::__IsChangeableHair(int iHairID)
 }
 #endif
 
-//Else (If ACCE_SYSTEM)
+//Else (If SASH_SYSTEM)
 
 #ifdef ENABLE_WEDDING_FIX
-BOOL CInstanceBase::__IsChangeableAcce(int iSashID)
+BOOL CInstanceBase::__IsChangeableSash(int iSashID)
 {
 
 	if (IsWearingDress())
@@ -106,7 +106,7 @@ BOOL CInstanceBase::__IsChangeableHair(int iHairID)
 //Else If SASH_SYSTEM
 
 #ifdef ENABLE_WEDDING_FIX
-	if (__IsChangeableAcce(dwSash) == false)
+	if (__IsChangeableSash(dwSash) == false)
 		dwSash = 0;
 #endif
 	
