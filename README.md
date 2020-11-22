@@ -1,2 +1,6 @@
 # Fix_Wedding_Dress
-Fix all wedding dress bug
+Fix make by Toki.San
+
+Discord: Toki.San@6712
+Telegram: @Miruko
+Mail:Tokiano.Sannito@gmail.com
