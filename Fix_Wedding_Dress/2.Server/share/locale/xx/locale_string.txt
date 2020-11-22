@@ -1,0 +1,8 @@
+"Non puoi cavalcare con uno Smoking o Abito da Sposa.";
+"You cannot ride in a Tuxedo or Wedding Dress.";
+
+"Non puoi usare un Costume con uno Smoking o Abito da Sposa.";
+"You cannot use the Skin Body with a Tuxedo or Wedding Dress.";
+
+"Devi rimuovere il Costume per usarlo.";
+"You must remove the Skin Body use it.";
